@@ -4,4 +4,13 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://github.com/DeCentN2Madness/my-flakes-edu/blob/main/LICENSE)
 [![issues - my-flakes-edu](https://img.shields.io/github/issues/DeCentN2Madness/my-flakes-edu)](https://github.com/DeCentN2Madness/my-flakes-edu/issues)
 
-This is simply a scratch repo to help me learn the use of Nix Flakes for Haskell development and NixOS configuration.
+This is simply a scratch repo to help me learn the use of Nix Flakes for Haskell development along with some extracurricular NixOS configuration fun. If you know your way around `git`, you can check out the commit, branch, and tag history to follow my follies from first commit to quit. Oh, snap.
+
+> **Note**
+> Using `nix develop .` from within the repo allows me to open it with VS Code by calling `code .` for use within this flake-controlled development environment.
+
+## upcoming test repos
+
+- haskell project stack to nix conversion
+- haskell project cabal to nix conversion
+- haskell project stack to cabal conversion
