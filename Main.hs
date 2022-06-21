@@ -3,4 +3,4 @@ module Main where
 import HaskellSay (haskellSay)
 
 main :: IO ()
-main = haskellSay "Hello Haskell Nixers!"
+main = haskellSay "Moo! I am not a cow!"
