@@ -6,7 +6,7 @@
 
 This is simply a scratch repo to help me learn the use of Nix Flakes for Haskell development along with some extracurricular NixOS configuration fun. If you know your way around `git`, you can check out the commit, branch, and tag history to follow my follies from first commit to quit. Oh, snap.
 
-> **Note**
+> **Note**  
 > Using `nix develop .` from within the repo allows me to open it with VS Code by calling `code .` for use within this flake-controlled development environment.
 
 ## upcoming test repos
