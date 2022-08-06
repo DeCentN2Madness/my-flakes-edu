@@ -9,8 +9,9 @@ This is simply a scratch repo to help me learn the use of Nix Flakes for Haskell
 > **Note**  
 > Using `nix develop .` from within the repo allows me to open it with VS Code by calling `code .` for use within this flake-controlled development environment.
 
-## upcoming test repos
+## upcoming test repos (perhaps)
 
 - haskell project stack to nix conversion
 - haskell project cabal to nix conversion
 - haskell project stack to cabal conversion
+- automated dev environments using direnv, nix-direnv, and lorri
