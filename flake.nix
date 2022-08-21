@@ -4,7 +4,7 @@
   description = "A Hello World in Haskell with a dependency and a devShell";
 
 #  inputs.nixpkgs.url = "nixpkgs";
-  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-unstable";
+  inputs.nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
   outputs = { self, nixpkgs }:
     let
